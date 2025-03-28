@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj": {}
+    "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj": {
+    "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\obj\\",
+        "outputPath": "d:\\STUDIA\\WIT\\Season_4\\Programowanie w interniecie\\Lab2\\mvc\\WIT_MVC\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
